@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning DSA with java.
 - 📫 My Linkedin profile : https://www.linkedin.com/in/devansh-srivastava-572b31239
-      Email: messagedevansh@gmail.com
+      ,Email: messagedevansh@gmail.com
 
 <!---
 devanshonly/devanshonly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
